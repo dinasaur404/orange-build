@@ -43,7 +43,7 @@
               "vcpu": 4,
               "memory_mib": 4096,
               "disk": {
-                "size_mb": 10240
+                "size_mb": 4000
               }
             },
             "rollout_step_percentage": 100
